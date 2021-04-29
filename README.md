@@ -4,7 +4,7 @@ Hi, I’m <b>@vind3v17</b>
 - 📫 Reach me through Email - vind3v17@gmail.com
 
 Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> 
-- HackerRank :<a href="https://www.hackerrank.com/iamshubhamg"> HackerRank</a>
+- HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
 - My Website :<a href="https://vind3v17.github.io"> V 1 N 3 E T</a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
 - Instagram  :<a href="https://www.instagram.com/17.vineet"> 17.vineet</a> 
