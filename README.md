@@ -1,6 +1,6 @@
 Hi, I’m <b>@vind3v17</b>
-- 👀 I’m interested in <b>Web Development , Cyber Security & AI/ML</b>
-- 🌱 I’m currently learning <b>Python</b> and also a <b>Btech CSE</b> student
+- 👀 Interested in <b>Web Development , Cyber Security , Blockchain & AI/ML</b>
+- 🌱 Currently learning <b>Python</b> and also a <b>Btech CSE</b> student
 - 📫 Reach me out through my<a href="https://mail.google.com/mail/mu/mp/263/#cv/Drafts/1791bc6ae817b054"> Email </a>
 
 Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> 
