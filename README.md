@@ -5,7 +5,6 @@ Hi, I’m <b>@vind3v17</b>
 
 Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> 
 - HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
-- Leetcode   :<a href="https://leetcode.com/vind3v17/"> LeetCode</a>
 - My Website :<a href="https://vind3v17.github.io"> vind3v17.github.io</a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
 - Instagram  :<a href="https://www.instagram.com/17.vineet"> 17.vineet</a> 
