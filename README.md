@@ -3,7 +3,6 @@ Hi, I’m <b>@vind3v17</b>
 - 🌱 Currently learning <b>Python</b> and also a <b>Btech CSE</b> student
 - 📫 Reach me out through my<a href="https://mail.google.com/mail/mu/mp/263/#cv/Drafts/1791bc6ae817b054"> Email </a>
 
-<script src="https://tryhackme.com/badge/498963"></script>
 
 Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> 
 - HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
