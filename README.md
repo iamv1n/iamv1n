@@ -4,7 +4,7 @@ Hi, I’m <b>@vind3v17</b>
 - 📫 Reach me out through my<a href="https://mail.google.com/mail/mu/mp/263/#cv/Drafts/1791bc6ae817b054"> Email </a>
 
 
-Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> 
+Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="16px"> 
 - HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
 - My Website :<a href="https://vind3v17.github.io"> vind3v17.github.io</a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
