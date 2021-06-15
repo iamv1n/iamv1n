@@ -15,7 +15,7 @@ Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob
 
 
 <!---
-vind3v17/vind3v17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vind3v17/vind3v17 is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
