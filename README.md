@@ -5,8 +5,6 @@ Hi, I’m <b>@vind3v17</b>
 
 ![vind3v17's GitHub stats](https://github-readme-stats.vercel.app/api?username=vind3v17&theme=algolia&show_icons=true)
 
-![My Languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=vind3v17&theme=algolia) 
-
 Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="16px"> 
 - HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
 - My Website :<a href="https://vind3v17.github.io"> vind3v17.github.io</a> 
