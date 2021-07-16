@@ -5,7 +5,7 @@ Hi, I’m <b>@vind3v17</b>
 
 ![vind3v17's GitHub stats](https://github-readme-stats.vercel.app/api?username=vind3v17&theme=algolia&show_icons=true)
 
-Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="16px"> 
+Find me around the web 
 - HackerRank :<a href="https://www.hackerrank.com/vind3v17"> HackerRank</a>
 - My Website :<a href="https://vind3v17.github.io"> V 1 N 3 E T </a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
