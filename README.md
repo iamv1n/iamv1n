@@ -1,4 +1,4 @@
-Hi, I’m <b>@vind3v17</b>
+Hi, I’m <b>vin</b>
 - 👀 Interested in <b>Web Development , Cyber Security , Blockchain & AI/ML</b>
 - 🌱 Currently learning <b>Python</b> and <b>JS</b> and also a <b>Btech CSE</b> student
 - 📫 Reach me out through my<a href="mailto:vind3v17@gmail.com"> Email </a>
