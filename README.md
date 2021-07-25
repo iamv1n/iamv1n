@@ -6,8 +6,8 @@ Hi, I’m <b>vin</b>
 ![vind3v17's GitHub stats](https://github-readme-stats.vercel.app/api?username=vind3v17&theme=algolia&show_icons=true)
 
 Find me around the web 
-- HackerRank :<a href="https://www.hackerrank.com/"> HackerRank</a>
-- My Website :<a href="http://vind3v17.xyz"> 0xv1n </a> 
+- HackerRank :<a href="https://www.hackerrank.com/vind3v17">HackerRank</a>
+- My Website :<a href="http://vind3v17.xyz"> vind3v17.xyz </a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
 - Instagram  :<a href="https://www.instagram.com/17.vineet"> 17.vineet</a> 
 
