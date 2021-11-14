@@ -1,4 +1,4 @@
-Hi, I’m <b>vin</b>
+Hi, I’m <b>Vineet.</b>
 -  Interested in <b>Web Development , Cyber Security , Blockchain & AI/ML</b>
 -  Currently learning <b>Java</b> and also a <b>Btech CSE</b> student
 -  Reach me out through my<a href="mailto:vind3v17@gmail.com"> Email </a>
