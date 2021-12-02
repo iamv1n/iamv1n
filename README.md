@@ -1,6 +1,6 @@
 Hi, I’m <b>Vineet.</b>
 -  Interested in <b>Web Development , Cyber Security , Blockchain & AI/ML</b>
--  Currently learning <b>Java</b> and also a <b>Btech CSE</b> student
+-  Currently learning <b>Java</b> and also a <b>Fresher in Computer Science and Engineering</b>.
 -  Reach me out through my<a href="mailto:vind3v17@gmail.com"> Email </a>
 
 ![iamv1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamv1n&theme=algolia&show_icons=true)
