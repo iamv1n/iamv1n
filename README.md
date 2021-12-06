@@ -6,10 +6,10 @@ Hi, I’m <b>Vineet.</b>
 ![iamv1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamv1n&theme=algolia&show_icons=true)
 
 Find me around the web 
-- HackerRank :<a href="https://www.hackerrank.com/vind3v17">HackerRank</a>
+- HackerRank :<a href="https://www.hackerrank.com/vind3v17">HackerRank </a>
 - My Website :<a href="http://me.vind3v17.xyz"> me.vind3v17.xyz </a> 
 - LinkedIn   :<a href="https://www.linkedin.com/in//"> LinkedIn</a> 
-- Instagram  :<a href="https://www.instagram.com/17.vineet"> 17.vineet</a> 
+- Instagram  :<a href="https://www.instagram.com/_iamv1n"> _iamv1n</a> 
 
 
 <!---
