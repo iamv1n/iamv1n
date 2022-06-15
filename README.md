@@ -1,7 +1,5 @@
-
-Hi 👋 I am Vineet Anil Likhitkar 
-=======================
-
+<img src="header.png">
+<hr>
 
 I am based in India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning STL in C++ and Brushing up my skills in the MERN stack. I have Deep Interest into Machine Learning, Blockchain(Web3), and DevOps Technologies. I love to contribute to Opensource projects and would Love to collaborate on Interesting Projects. Feel Free to contact me on my socials if you ever want to talk, chill or discuss about anything.
 
