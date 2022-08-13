@@ -3,10 +3,11 @@
 
 I am based in India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Machine learning through building projects. I have Deep Interest into Machine Learning, Blockchain(Web3), and DevOps Technologies. I love to contribute to Opensource projects and would Love to collaborate on Interesting Projects. Feel Free to contact me on my socials if you ever want to talk, chill or discuss about anything.
 
-* 🖥️  Check out my Website at [vineet.is-a.dev](http://me.vind3v17.xyz)
+* 🖥️  Check out my Website at [vineet.is-a.dev](https://vineet.is-a.dev)
 * 🚀  I'm currently working on 
      - [Waffle](http://github.com/iamv1n/waffle)
      - [Crypto-Fries](https://github.com/iamv1n/crypto-fries)
+     - [Build-it CLI](https://github.com/iamv1n/iamv1n-cli)
 * ✉️  You can Reach me out through [My Email](mailto:vind3v17@gmail.com)
 
 ### Skills
