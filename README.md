@@ -5,7 +5,7 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
 
 * 🖥️  Check out my Website at [vineet.is-a.dev](https://vineet.is-a.dev)
 * 🚀  I'm currently working on 
-     - [Waffle](http://github.com/iamv1n/waffle)
+     - [Waffle](https://iamv1n.xyz/0xv1n/)
      - [Crypto-Fries](https://github.com/iamv1n/crypto-fries)
      - [Build-it CLI](https://github.com/iamv1n/iamv1n-cli)
 * ✉️  You can Reach me out through [My Email](mailto:vind3v17@gmail.com)
