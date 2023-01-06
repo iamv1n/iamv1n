@@ -1,13 +1,13 @@
 <img src="header.png">
 <hr>
 
-I am based in India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Machine learning through building projects. I have Deep Interest into Machine Learning, Blockchain(Web3), and DevOps Technologies. I love to contribute to Opensource projects and would Love to collaborate on Interesting Projects. Feel Free to contact me on my socials if you ever want to talk, chill or discuss about anything.
+I am based in India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Machine learning through building projects. I have a Deep Interest in Machine Learning, Cloud Computing, and DevOps Technologies. I love to contribute to Opensource projects and would Love to collaborate on Interesting Projects. Feel Free to reach me out on my socials if you ever want to talk or discuss about anything or just want to talk in general! text me out man coz I love to meet people. 
 
 * 🖥️  Check out my Website at [vineet.is-a.dev](https://vineet.is-a.dev)
 * 🚀  I'm currently working on 
      - [Waffle](https://iamv1n.xyz/0xv1n/)
-     - [Crypto-Fries](https://github.com/iamv1n/crypto-fries)
-     - [Build-it CLI](https://github.com/iamv1n/iamv1n-cli)
+     - [Crypto-Fries](https://github.com/iamv1n/crypto-fries)  
+<!--     - [Build-it CLI](https://github.com/iamv1n/buildit-cli) -->
 * ✉️  You can Reach me out through [My Email](mailto:vind3v17@gmail.com)
 
 ### Skills
@@ -45,9 +45,9 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
 <!-- <a href="http://www.github.com/iamv1n"><img src="https://activity-graph.herokuapp.com/graph?username=iamv1n&bg_color=000000&color=0891b2&line=ef4444&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
-<!---
+<!--
 vind3v17/vind3v17 is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
 
 
