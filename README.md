@@ -37,10 +37,19 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
 
 
 <b>My GitHub Stats</b>
+<table>
+     <tr> 
+          <td>
+               <a href="http://www.github.com/iamv1n"><img src="https://github-readme-stats.vercel.app/api?username=iamv1n&show_icons=true&theme=transparent&hide_border=true" alt="iamv1n's GitHub stats" /></a> 
+          </td> 
+          <td> 
+               <a href="http://www.github.com/iamv1n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamv1n&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+          </td> 
+     </tr> 
+</table>
 
-<a href="http://www.github.com/iamv1n"><img src="https://github-readme-stats.vercel.app/api?username=iamv1n&show_icons=true&theme=dark#gh-dark-mode-only" alt="iamv1n's GitHub stats" /></a>
 
-<a href="http://www.github.com/iamv1n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamv1n&stroke=0891b2&background=000000&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+
 
 <!-- <a href="http://www.github.com/iamv1n"><img src="https://activity-graph.herokuapp.com/graph?username=iamv1n&bg_color=000000&color=0891b2&line=ef4444&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
