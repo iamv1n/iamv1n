@@ -38,7 +38,7 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamv1n"><img src="https://github-readme-stats.vercel.app/api?username=iamv1n&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="iamv1n's GitHub stats" /></a>
+<a href="http://www.github.com/iamv1n"><img src="https://github-readme-stats.vercel.app/api?username=iamv1n&show_icons=true&theme=dark#gh-dark-mode-only" alt="iamv1n's GitHub stats" /></a>
 
 <a href="http://www.github.com/iamv1n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamv1n&stroke=0891b2&background=000000&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
