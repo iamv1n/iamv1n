@@ -26,7 +26,7 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
      <a href="http://www.instagram.com/iamv1n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
      <a href="https://www.linkedin.com/in/iamv1n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
      <a href="https://www.stackoverflow.com/users/iamv1n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" /></a>
-     <a href="https://www.twitter.com/iamv1n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+     <a href="https://www.twitter.com/vineetstwt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
 
 <br>
 <h3><p align="center"><b>Github Stats</b></p></h3>
