@@ -7,8 +7,8 @@ I am based in India and Currently Pursuing Bachelors in Computer Science and Tec
 
 * 🖥️  Check out my Website at [vineet.is-a.dev](https://vineet.is-a.dev)
 * 🚀  I'm currently working on 
-     - [Kryptex](https://iamv1n.xyz/0xv1n/)
-     - [POS Tagger](https://github.com/iamv1n/pos-tagger)
+     - [phoenix](https://vineet.site/0xv1n/)
+     - [xv6](https://github.com/iamv1n/vm-xv6-NPD)
 
 * ✉️  You can Reach me out through my [email](mailto:vind3v17@gmail.com)
 
