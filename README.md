@@ -1,9 +1,9 @@
-<a href="https://vineet.is-a.dev">
-     <img src="header.png">
-</a>
+Hi!👋🏻 I am Vineet.<a href="https://vineet.is-a.dev"></a>
+<!--      <img src="header.png"> -->
+
 <hr>
 
-I am based in India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Machine learning through building projects. I have a Deep Interest in Machine Learning, Cloud Computing, and DevOps Technologies. I love to contribute to Opensource projects and would Love to collaborate on Interesting Projects. Feel Free to reach me out on my socials if you ever want to talk or discuss about anything or just want to talk in general! text me out man coz I love to meet people. 
+Based in India, I'm currently pursuing a Bachelor's in Computer Science and Technology. My focus lies in mastering Data Structures, Algorithms, and exploring Machine Learning through hands-on projects. With a keen interest in Machine Learning, Cloud Computing, and DevOps, I actively contribute to open-source projects. I'm enthusiastic about collaborating on exciting ventures. Reach out on my socials for a chat or discussions - I'm always up for meeting new people and exchanging ideas!
 
 * 🖥️  Check out my Website at [vineet.is-a.dev](https://vineet.is-a.dev)
 * 🚀  I'm currently working on 
