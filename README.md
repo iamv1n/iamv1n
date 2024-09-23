@@ -1,7 +1,7 @@
 ## Hi!👋🏻 I am Vineet.<a href="https://vineet.is-a.dev"></a>
 <!--      <img src="header.png"> -->
 
-<hr>
+<!-- <hr>  -->
 
 I'm working as a Software Engineering Intern at Graviti and am in my senior year pursuing a CS degree at JUET. I have a growing fascination for AGI, particularly at the intersection of finance and artificial intelligence.
 
