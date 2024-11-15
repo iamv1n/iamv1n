@@ -3,7 +3,7 @@
 
 <!-- <hr>  -->
 
-I'm working as a Software Engineering Intern at Graviti and am in my senior year pursuing a CS degree at JUET. I have a growing fascination for AGI, particularly at the intersection of finance and artificial intelligence.
+I'm working as a Software Engineering Intern at <a href="https://graviti.in">Graviti</a> and am in my senior year pursuing a CS degree at JUET. I have a growing fascination for AGI, particularly at the intersection of finance and artificial intelligence.
 
 My expertise lies in crafting robust backend architectures and designing efficient APIs, with a focus on technologies like NestJS and Apollo. Currently I'm expanding my skill set with technologies like NextJS, Springboot and DevOps practices. I'm also deeply invested in creating intuitive user interfaces and experiences, believing that even backend developers should prioritize the end-user. In addition, I actively contributes to open-source projects, including MindsDB and Meshery.
 
