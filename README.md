@@ -1,17 +1,20 @@
+<!--
 ## Hi!👋🏻 I am Vineet.<a href="https://vineet.is-a.dev"></a>
-<!--      <img src="header.png"> -->
+  
+<img src="header.png"> -->
 
 <!-- <hr>  -->
 
-I'm working as a Software Engineering Intern at <a href="https://zimpra.com">Zimpra</a> and am in my senior year pursuing a CS degree at JUET. I have a growing fascination for AGI, particularly at the intersection of finance and artificial intelligence.
+Software Engineer, [Zimpra](https://zimpra.com). I craft systems that survive load, scale cleanly, and don’t break under edge cases.
 
-My expertise lies in crafting robust backend architectures and designing efficient APIs, with a focus on technologies like NestJS and Apollo. Currently I'm expanding my skill set with technologies like NextJS, Springboot and DevOps practices. I'm also deeply invested in creating intuitive user interfaces and experiences, believing that even backend developers should prioritize the end-user. In addition, I actively contributes to open-source projects, including MindsDB and Meshery.
+Lately, AGI’s been rewiring my brain - I’m still early in the journey, but already knee-deep in theory, blogs, and rabbit holes. Curious about its role in decision-making, automation, and human-scale problems.
 
-In the future, I'm eager to further explore advancements in artificial general intelligence, particularly its applications in finance and automated decision-making. I also aim to deepen my expertise in cloud-native architectures and DevOps automation to design even more scalable and resilient systems.
+Outside work, I lift heavy, read across disciplines, and ride to think. Code is my craft. AGI is my next mountain.
 
-I'm enthusiastic about collaborating on exciting ventures! Feel free to reach out on my socials for a chat or discussion—I'm always eager to meet new people and exchange ideas!
+I'm always up for exciting collaborations, hacky ideas, or deep conversations around code, intelligence, or tech philosophy.
 
-Check out more about me at [swe.vineetxd.me](https://swe.vineetxd.me)
+📎 Learn more at: [swe.vineetxd.me](https://swe.vineetxd.me)
+<!--
 
 ## Recent Works
 📚 Some of my Recent writings:
