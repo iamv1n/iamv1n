@@ -13,7 +13,7 @@ Outside work, I lift heavy, read across disciplines, and ride to think. Code is 
 
 I'm always up for exciting collaborations, hacky ideas, or deep conversations around code, intelligence, or tech philosophy.
 
-📎 Learn more at: [swe.vineetxd.me](https://swe.vineet.wiki)
+📎 Learn more at: [swe.vineet.wiki](https://swe.vineet.wiki)
 <!--
 
 ## Recent Works
